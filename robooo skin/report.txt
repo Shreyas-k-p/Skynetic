@@ -1,0 +1,18 @@
+Info: Processing symbol 'D1:LED_SMD:LED_0402_1005Metric'.
+Info: Processing symbol 'D4:LED_SMD:LED_0402_1005Metric'.
+Info: Processing symbol 'J1:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'U1:Sensor_Pressure:TE_MS5837-xxBA'.
+Info: Processing symbol 'U3:RF_Module:ESP32-S2-WROVER'.
+Info: Processing symbol 'U4:Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm'.
+Info: Total warnings: 0, errors: 0.
+Add net Net-(U1-SDA).
+Reconnected U1 pin 4 from Net-(U1-SCL) to Net-(U1-SDA).
+Reconnected U3 pin 24 from Net-(U1-SCL) to Net-(U1-SDA).
+
+
+
+
+Info: Total warnings: 0, errors: 0.
